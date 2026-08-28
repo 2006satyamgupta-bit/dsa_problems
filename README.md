@@ -12,9 +12,11 @@ Leetcode problems repo
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0709-to-lower-case) |
+| [2942-find-words-containing-character](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/2942-find-words-containing-character) |
 ## Array
 |  |
 | ------- |
+| [2942-find-words-containing-character](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/3024-type-of-triangle) |
 ## Sorting
 |  |
