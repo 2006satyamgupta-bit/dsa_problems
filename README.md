@@ -12,6 +12,7 @@ Leetcode problems repo
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0709-to-lower-case) |
 | [2942-find-words-containing-character](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/3019-number-of-changing-keys) |
@@ -34,6 +35,7 @@ Leetcode problems repo
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
