@@ -1,1 +1,76 @@
-{"leetcode":{"easy":8,"hard":0,"medium":0,"shas":{"2894-divisible-and-non-divisible-sums-difference":{"2894-divisible-and-non-divisible-sums-difference.cpp":"5e2d27186a56a4838039ee2bf0814d76a3f53d40","README.md":"6ad2ed61f3cb6fd32f50f78375014337f5290fb9","difficulty":"easy"},"README.md":{"":"5c26f96cda197266bd567b4a990c85fc2bf01996"},"0709-to-lower-case":{"0709-to-lower-case.cpp":"8bbe2879be529f4d259b5a1cafad9278a7558ca9","README.md":"96b7c9bd9932851aea836fca5a87b5ddfcc488a8","difficulty":"easy"},"stats.json":{"":"5ca6bc3681096207b95afbc5d310ae6257286897"},"3024-type-of-triangle":{"3024-type-of-triangle.cpp":"652117a888dc9dd46f3792224404f772d6277be8","README.md":"2b9532db20f5c5a50f3103b849d5dceb64e308e6","difficulty":"easy"},"0977-squares-of-a-sorted-array":{"0977-squares-of-a-sorted-array.cpp":"f8fa75ad73220203cabb26c040969178c5a0a9d1","README.md":"f8a2af23fecbf728443e67f86046f434e17c0226","difficulty":"easy"},"2942-find-words-containing-character":{"2942-find-words-containing-character.cpp":"b4706174e71a2a5e9886403dea449b74896934c6","README.md":"a4f9be3d8d272f4e3213f491eaecb875961e65e0","difficulty":"easy"},"3019-number-of-changing-keys":{"3019-number-of-changing-keys.cpp":"156d0b2cdcee1fa96669b66ad1bc3efea15142fc","README.md":"0bfc9124781fa7e5fb0c4d7884531f194a985d72","difficulty":"easy"},"1281-subtract-the-product-and-sum-of-digits-of-an-integer":{"1281-subtract-the-product-and-sum-of-digits-of-an-integer.cpp":"eb4ce25c6696a0819c6ce80bda59e7c8bf2e0817","README.md":"9bce47804cd2f1fea975c5dfa468c7d0b9d754ce","difficulty":"easy"},"1672-richest-customer-wealth":{"1672-richest-customer-wealth.cpp":"06eab64cc33b958ef5cf5b847123050dc21a2526","README.md":"9b02a361c429484b14a2bf0e923466341ddbf5f5","difficulty":"easy"}},"solved":8}}
+{
+  "leetcode": {
+    "easy": 8,
+    "hard": 0,
+    "medium": 0,
+    "shas": {
+      "2894-divisible-and-non-divisible-sums-difference": {
+        "2894-divisible-and-non-divisible-sums-difference.cpp": "5e2d27186a56a4838039ee2bf0814d76a3f53d40",
+        "README.md": "6ad2ed61f3cb6fd32f50f78375014337f5290fb9",
+        "difficulty": "easy"
+      },
+      "README.md": {
+        "": "5c26f96cda197266bd567b4a990c85fc2bf01996"
+      },
+      "0709-to-lower-case": {
+        "0709-to-lower-case.cpp": "8bbe2879be529f4d259b5a1cafad9278a7558ca9",
+        "README.md": "96b7c9bd9932851aea836fca5a87b5ddfcc488a8",
+        "difficulty": "easy"
+      },
+      "stats.json": {
+        "": "5ca6bc3681096207b95afbc5d310ae6257286897"
+      },
+      "3024-type-of-triangle": {
+        "3024-type-of-triangle.cpp": "652117a888dc9dd46f3792224404f772d6277be8",
+        "README.md": "2b9532db20f5c5a50f3103b849d5dceb64e308e6",
+        "difficulty": "easy"
+      },
+      "0977-squares-of-a-sorted-array": {
+        "0977-squares-of-a-sorted-array.cpp": "f8fa75ad73220203cabb26c040969178c5a0a9d1",
+        "README.md": "f8a2af23fecbf728443e67f86046f434e17c0226",
+        "difficulty": "easy"
+      },
+      "2942-find-words-containing-character": {
+        "2942-find-words-containing-character.cpp": "b4706174e71a2a5e9886403dea449b74896934c6",
+        "README.md": "a4f9be3d8d272f4e3213f491eaecb875961e65e0",
+        "difficulty": "easy"
+      },
+      "3019-number-of-changing-keys": {
+        "3019-number-of-changing-keys.cpp": "156d0b2cdcee1fa96669b66ad1bc3efea15142fc",
+        "README.md": "0bfc9124781fa7e5fb0c4d7884531f194a985d72",
+        "difficulty": "easy"
+      },
+      "1281-subtract-the-product-and-sum-of-digits-of-an-integer": {
+        "1281-subtract-the-product-and-sum-of-digits-of-an-integer.cpp": "eb4ce25c6696a0819c6ce80bda59e7c8bf2e0817",
+        "README.md": "9bce47804cd2f1fea975c5dfa468c7d0b9d754ce",
+        "difficulty": "easy"
+      },
+      "1672-richest-customer-wealth": {
+        "1672-richest-customer-wealth.cpp": "06eab64cc33b958ef5cf5b847123050dc21a2526",
+        "README.md": "9b02a361c429484b14a2bf0e923466341ddbf5f5",
+        "difficulty": "easy"
+      }
+    },
+    "solved": 8
+  },
+  "syncedProblems": {
+    "GeeksForGeeks_Make_the_array_beautiful": true
+  },
+  "totalSolved": 1,
+  "difficultyCounts": {
+    "easy": 1,
+    "medium": 0,
+    "hard": 0,
+    "basic": 0
+  },
+  "todayProblems": [
+    "Make the array beautiful"
+  ],
+  "currentStreak": 1,
+  "todayCount": 1,
+  "lastSyncDate": "2026-08-31",
+  "maxStreak": 1,
+  "activityHistory": {
+    "2026-08-31": 1
+  }
+}
