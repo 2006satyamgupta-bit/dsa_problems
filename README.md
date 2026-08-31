@@ -6,6 +6,7 @@ Leetcode problems repo
 ## Math
 |  |
 | ------- |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/3024-type-of-triangle) |
 ## String
