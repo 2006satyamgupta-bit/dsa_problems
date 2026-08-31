@@ -19,6 +19,7 @@ Leetcode problems repo
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1672-richest-customer-wealth](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/1672-richest-customer-wealth) |
 | [2942-find-words-containing-character](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/3024-type-of-triangle) |
 ## Sorting
@@ -34,4 +35,8 @@ Leetcode problems repo
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
