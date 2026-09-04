@@ -8,7 +8,7 @@
 [View Problem](https://www.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1)
 
 ## Solved On
-04 Sept 2026 at 01:24 pm
+04 Sept 2026 at 01:42 pm
 
 <h2><a href="https://www.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1">Linked List Delete at Position</a></h2><h3>Difficulty Level: Easy</h3><hr><p><span style="font-size: 18.6667px;">Given the <strong>head </strong>of a linked list and an integer <strong>x</strong>, delete the node at position x and return the updated head of the linked list.</span></p>
 <p><span style="font-size: 18.6667px;"><strong>Note</strong>: Positions use 1-based indexing.</span></p>

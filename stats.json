@@ -69,23 +69,25 @@
     "solved": 11
   },
   "syncedProblems": {
-    "GeeksForGeeks_Length_of_Linked_List": true
+    "GeeksForGeeks_Length_of_Linked_List": true,
+    "GeeksForGeeks_Linked_List_Delete_at_Position": true
   },
-  "totalSolved": 1,
+  "totalSolved": 2,
   "difficultyCounts": {
-    "easy": 0,
+    "easy": 1,
     "medium": 0,
     "hard": 0,
     "basic": 1
   },
   "todayProblems": [
-    "Length of Linked List"
+    "Length of Linked List",
+    "Linked List Delete at Position"
   ],
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-09-04",
   "maxStreak": 1,
   "activityHistory": {
-    "2026-09-04": 1
+    "2026-09-04": 2
   }
 }
