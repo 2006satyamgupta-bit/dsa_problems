@@ -66,25 +66,27 @@
   "syncedProblems": {
     "LeetCode_Construct_Uniform_Parity_Array_I": true,
     "GeeksForGeeks_Array_to_Linked_List": true,
-    "GeeksForGeeks_Linked_List_End_Insertion": true
+    "GeeksForGeeks_Linked_List_End_Insertion": true,
+    "GeeksForGeeks_Linked_List_Delete_at_Position": true
   },
-  "totalSolved": 3,
+  "totalSolved": 4,
   "difficultyCounts": {
-    "easy": 2,
+    "easy": 3,
     "medium": 0,
     "hard": 0,
     "basic": 1
   },
   "todayProblems": [
     "Array to Linked List",
-    "Linked List End Insertion"
+    "Linked List End Insertion",
+    "Linked List Delete at Position"
   ],
   "currentStreak": 1,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-09-04",
   "maxStreak": 1,
   "activityHistory": {
     "2026-09-02": 1,
-    "2026-09-04": 2
+    "2026-09-04": 3
   }
 }
