@@ -24,3 +24,4 @@
 | 6 | [Linked List Delete at Position](./GeeksForGeeks/Easy/Linked%20List%20Delete%20at%20Position) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1) | Easy | 04 Sept 2026 | 01:24 pm |
 | 7 | [Length of Linked List](./GeeksForGeeks/Basic/Length%20of%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/1) | Basic | 04 Sept 2026 | 01:41 pm |
 | 8 | [Search in Linked List](./GeeksForGeeks/Easy/Search%20in%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1) | Easy | 04 Sept 2026 | 01:48 pm |
+| 9 | [Doubly Linked List from an Array](./GeeksForGeeks/Easy/Doubly%20Linked%20List%20from%20an%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/create-a-doubly-linked-list-from-a-given-array/1) | Easy | 05 Sept 2026 | 04:35 pm |
