@@ -26,3 +26,4 @@
 | 8 | [Search in Linked List](./GeeksForGeeks/Easy/Search%20in%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1) | Easy | 04 Sept 2026 | 01:48 pm |
 | 9 | [Doubly Linked List from an Array](./GeeksForGeeks/Easy/Doubly%20Linked%20List%20from%20an%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/create-a-doubly-linked-list-from-a-given-array/1) | Easy | 05 Sept 2026 | 04:35 pm |
 | 10 | [Insertion in a Doubly Linked List](./GeeksForGeeks/Easy/Insertion%20in%20a%20Doubly%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1) | Easy | 05 Sept 2026 | 07:46 pm |
+| 11 | [Delete in a Doubly Linked List](./GeeksForGeeks/Easy/Delete%20in%20a%20Doubly%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1) | Easy | 06 Sept 2026 | 04:41 pm |

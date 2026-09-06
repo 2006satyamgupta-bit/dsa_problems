@@ -73,25 +73,26 @@
     "GeeksForGeeks_Linked_List_Delete_at_Position": true,
     "GeeksForGeeks_Search_in_Linked_List": true,
     "GeeksForGeeks_Doubly_Linked_List_from_an_Array": true,
-    "GeeksForGeeks_Insertion_in_a_Doubly_Linked_List": true
+    "GeeksForGeeks_Insertion_in_a_Doubly_Linked_List": true,
+    "GeeksForGeeks_Delete_in_a_Doubly_Linked_List": true
   },
-  "totalSolved": 5,
+  "totalSolved": 6,
   "difficultyCounts": {
-    "easy": 4,
+    "easy": 5,
     "medium": 0,
     "hard": 0,
     "basic": 1
   },
   "todayProblems": [
-    "Doubly Linked List from an Array",
-    "Insertion in a Doubly Linked List"
+    "Delete in a Doubly Linked List"
   ],
-  "currentStreak": 2,
-  "todayCount": 2,
-  "lastSyncDate": "2026-09-05",
-  "maxStreak": 2,
+  "currentStreak": 3,
+  "todayCount": 1,
+  "lastSyncDate": "2026-09-06",
+  "maxStreak": 3,
   "activityHistory": {
     "2026-09-04": 3,
-    "2026-09-05": 2
+    "2026-09-05": 2,
+    "2026-09-06": 1
   }
 }
