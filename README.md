@@ -20,7 +20,6 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0237-delete-node-in-a-linked-list) |
-| [0328-odd-even-linked-list](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -36,3 +35,4 @@
 | 10 | [Insertion in a Doubly Linked List](./GeeksForGeeks/Easy/Insertion%20in%20a%20Doubly%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1) | Easy | 05 Sept 2026 | 07:46 pm |
 | 11 | [Delete in a Doubly Linked List](./GeeksForGeeks/Easy/Delete%20in%20a%20Doubly%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1) | Easy | 06 Sept 2026 | 04:41 pm |
 | 12 | [Count Commas in Range](./LeetCode/Easy/Count%20Commas%20in%20Range) | [LeetCode](https://leetcode.com/problems/count-commas-in-range/) | Easy | 08 Sept 2026 | 02:59 pm |
+| 13 | [Odd Even Linked List](./LeetCode/Medium/Odd%20Even%20Linked%20List) | [LeetCode](https://leetcode.com/problems/odd-even-linked-list/) | Medium | 11 Sept 2026 | 11:38 am |
