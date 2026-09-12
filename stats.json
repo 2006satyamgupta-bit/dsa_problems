@@ -79,23 +79,25 @@
     "solved": 13
   },
   "syncedProblems": {
-    "LeetCode_Odd_Even_Linked_List": true
+    "LeetCode_Odd_Even_Linked_List": true,
+    "LeetCode_Delete_the_Middle_Node_of_a_Linked_List": true
   },
-  "totalSolved": 1,
+  "totalSolved": 2,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Odd Even Linked List"
+    "Delete the Middle Node of a Linked List"
   ],
-  "currentStreak": 1,
+  "currentStreak": 2,
   "todayCount": 1,
-  "lastSyncDate": "2026-09-11",
-  "maxStreak": 1,
+  "lastSyncDate": "2026-09-12",
+  "maxStreak": 2,
   "activityHistory": {
-    "2026-09-11": 1
+    "2026-09-11": 1,
+    "2026-09-12": 1
   }
 }

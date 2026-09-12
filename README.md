@@ -36,3 +36,4 @@
 | 11 | [Delete in a Doubly Linked List](./GeeksForGeeks/Easy/Delete%20in%20a%20Doubly%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1) | Easy | 06 Sept 2026 | 04:41 pm |
 | 12 | [Count Commas in Range](./LeetCode/Easy/Count%20Commas%20in%20Range) | [LeetCode](https://leetcode.com/problems/count-commas-in-range/) | Easy | 08 Sept 2026 | 02:59 pm |
 | 13 | [Odd Even Linked List](./LeetCode/Medium/Odd%20Even%20Linked%20List) | [LeetCode](https://leetcode.com/problems/odd-even-linked-list/) | Medium | 11 Sept 2026 | 11:38 am |
+| 14 | [Delete the Middle Node of a Linked List](./LeetCode/Medium/Delete%20the%20Middle%20Node%20of%20a%20Linked%20List) | [LeetCode](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Medium | 12 Sept 2026 | 09:40 pm |
