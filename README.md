@@ -38,3 +38,4 @@
 | 13 | [Odd Even Linked List](./LeetCode/Medium/Odd%20Even%20Linked%20List) | [LeetCode](https://leetcode.com/problems/odd-even-linked-list/) | Medium | 11 Sept 2026 | 11:38 am |
 | 14 | [Delete the Middle Node of a Linked List](./LeetCode/Medium/Delete%20the%20Middle%20Node%20of%20a%20Linked%20List) | [LeetCode](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Medium | 12 Sept 2026 | 09:40 pm |
 | 15 | [Minimum Add to Make Parentheses Valid](./LeetCode/Medium/Minimum%20Add%20to%20Make%20Parentheses%20Valid) | [LeetCode](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium | 13 Sept 2026 | 07:45 pm |
+| 16 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 13 Sept 2026 | 08:04 pm |
