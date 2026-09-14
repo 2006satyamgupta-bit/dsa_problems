@@ -82,26 +82,27 @@
     "LeetCode_Odd_Even_Linked_List": true,
     "LeetCode_Delete_the_Middle_Node_of_a_Linked_List": true,
     "LeetCode_Minimum_Add_to_Make_Parentheses_Valid": true,
-    "LeetCode_Valid_Parentheses": true
+    "LeetCode_Valid_Parentheses": true,
+    "LeetCode_Palindrome_Linked_List": true
   },
-  "totalSolved": 4,
+  "totalSolved": 5,
   "difficultyCounts": {
-    "easy": 1,
+    "easy": 2,
     "medium": 3,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Minimum Add to Make Parentheses Valid",
-    "Valid Parentheses"
+    "Palindrome Linked List"
   ],
-  "currentStreak": 3,
-  "todayCount": 2,
-  "lastSyncDate": "2026-09-13",
-  "maxStreak": 3,
+  "currentStreak": 4,
+  "todayCount": 1,
+  "lastSyncDate": "2026-09-14",
+  "maxStreak": 4,
   "activityHistory": {
     "2026-09-11": 1,
     "2026-09-12": 1,
-    "2026-09-13": 2
+    "2026-09-13": 2,
+    "2026-09-14": 1
   }
 }
