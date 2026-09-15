@@ -41,3 +41,4 @@
 | 16 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 13 Sept 2026 | 08:04 pm |
 | 17 | [Palindrome Linked List](./LeetCode/Easy/Palindrome%20Linked%20List) | [LeetCode](https://leetcode.com/problems/palindrome-linked-list/) | Easy | 14 Sept 2026 | 09:45 pm |
 | 18 | [Maximum Depth of Binary Tree](./LeetCode/Easy/Maximum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | 15 Sept 2026 | 10:03 am |
+| 19 | [Minimum Depth of Binary Tree](./LeetCode/Easy/Minimum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | 15 Sept 2026 | 10:07 am |
