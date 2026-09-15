@@ -83,26 +83,28 @@
     "LeetCode_Delete_the_Middle_Node_of_a_Linked_List": true,
     "LeetCode_Minimum_Add_to_Make_Parentheses_Valid": true,
     "LeetCode_Valid_Parentheses": true,
-    "LeetCode_Palindrome_Linked_List": true
+    "LeetCode_Palindrome_Linked_List": true,
+    "LeetCode_Maximum_Depth_of_Binary_Tree": true
   },
-  "totalSolved": 5,
+  "totalSolved": 6,
   "difficultyCounts": {
-    "easy": 2,
+    "easy": 3,
     "medium": 3,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Palindrome Linked List"
+    "Maximum Depth of Binary Tree"
   ],
-  "currentStreak": 4,
+  "currentStreak": 5,
   "todayCount": 1,
-  "lastSyncDate": "2026-09-14",
-  "maxStreak": 4,
+  "lastSyncDate": "2026-09-15",
+  "maxStreak": 5,
   "activityHistory": {
     "2026-09-11": 1,
     "2026-09-12": 1,
     "2026-09-13": 2,
-    "2026-09-14": 1
+    "2026-09-14": 1,
+    "2026-09-15": 1
   }
 }
