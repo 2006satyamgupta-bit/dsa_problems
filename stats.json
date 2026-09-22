@@ -87,20 +87,22 @@
     "LeetCode_Maximum_Depth_of_Binary_Tree": true,
     "LeetCode_Minimum_Depth_of_Binary_Tree": true,
     "LeetCode_Binary_Tree_Inorder_Traversal": true,
-    "GeeksForGeeks_Middle_of_Linked_List": true
+    "GeeksForGeeks_Middle_of_Linked_List": true,
+    "GeeksForGeeks_Reverse_a_Linked_List": true
   },
-  "totalSolved": 9,
+  "totalSolved": 10,
   "difficultyCounts": {
-    "easy": 6,
+    "easy": 7,
     "medium": 3,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Middle of Linked List"
+    "Middle of Linked List",
+    "Reverse a Linked List"
   ],
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-09-22",
   "maxStreak": 6,
   "activityHistory": {
@@ -110,6 +112,6 @@
     "2026-09-14": 1,
     "2026-09-15": 2,
     "2026-09-16": 1,
-    "2026-09-22": 1
+    "2026-09-22": 2
   }
 }
