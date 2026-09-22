@@ -43,3 +43,4 @@
 | 18 | [Maximum Depth of Binary Tree](./LeetCode/Easy/Maximum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | 15 Sept 2026 | 10:03 am |
 | 19 | [Minimum Depth of Binary Tree](./LeetCode/Easy/Minimum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | 15 Sept 2026 | 10:07 am |
 | 20 | [Binary Tree Inorder Traversal](./LeetCode/Easy/Binary%20Tree%20Inorder%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | 16 Sept 2026 | 10:16 am |
+| 21 | [Middle of Linked List](./GeeksForGeeks/Easy/Middle%20of%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1) | Easy | 22 Sept 2026 | 09:21 am |
