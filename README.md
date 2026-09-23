@@ -45,3 +45,4 @@
 | 20 | [Binary Tree Inorder Traversal](./LeetCode/Easy/Binary%20Tree%20Inorder%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | 16 Sept 2026 | 10:16 am |
 | 21 | [Middle of Linked List](./GeeksForGeeks/Easy/Middle%20of%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1) | Easy | 22 Sept 2026 | 09:21 am |
 | 22 | [Reverse a Linked List](./GeeksForGeeks/Easy/Reverse%20a%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1) | Easy | 22 Sept 2026 | 02:30 pm |
+| 23 | [Check Completeness of a Binary Tree](./LeetCode/Medium/Check%20Completeness%20of%20a%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | Medium | 23 Sept 2026 | 09:21 am |
