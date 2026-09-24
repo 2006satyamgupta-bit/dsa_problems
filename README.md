@@ -46,3 +46,4 @@
 | 21 | [Middle of Linked List](./GeeksForGeeks/Easy/Middle%20of%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1) | Easy | 22 Sept 2026 | 09:21 am |
 | 22 | [Reverse a Linked List](./GeeksForGeeks/Easy/Reverse%20a%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1) | Easy | 22 Sept 2026 | 02:30 pm |
 | 23 | [Check Completeness of a Binary Tree](./LeetCode/Medium/Check%20Completeness%20of%20a%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | Medium | 23 Sept 2026 | 09:21 am |
+| 24 | [Full Binary Tree](./GeeksForGeeks/Easy/Full%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/full-binary-tree/1) | Easy | 24 Sept 2026 | 09:11 am |
