@@ -91,21 +91,22 @@
     "GeeksForGeeks_Reverse_a_Linked_List": true,
     "LeetCode_Check_Completeness_of_a_Binary_Tree": true,
     "GeeksForGeeks_Full_Binary_Tree": true,
-    "GeeksForGeeks_Parenthesis_Checker": true
+    "GeeksForGeeks_Parenthesis_Checker": true,
+    "LeetCode_Insert_into_a_Binary_Search_Tree": true
   },
-  "totalSolved": 13,
+  "totalSolved": 14,
   "difficultyCounts": {
     "easy": 9,
-    "medium": 4,
+    "medium": 5,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Parenthesis Checker"
+    "Insert into a Binary Search Tree"
   ],
   "currentStreak": 1,
   "todayCount": 1,
-  "lastSyncDate": "2026-09-27",
+  "lastSyncDate": "2026-09-29",
   "maxStreak": 6,
   "activityHistory": {
     "2026-09-11": 1,
@@ -117,6 +118,7 @@
     "2026-09-22": 2,
     "2026-09-23": 1,
     "2026-09-24": 1,
-    "2026-09-27": 1
+    "2026-09-27": 1,
+    "2026-09-29": 1
   }
 }
