@@ -49,3 +49,4 @@
 | 24 | [Full Binary Tree](./GeeksForGeeks/Easy/Full%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/full-binary-tree/1) | Easy | 24 Sept 2026 | 09:11 am |
 | 25 | [Parenthesis Checker](./GeeksForGeeks/Easy/Parenthesis%20Checker) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1) | Easy | 27 Sept 2026 | 11:33 am |
 | 26 | [Insert into a Binary Search Tree](./LeetCode/Medium/Insert%20into%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | 29 Sept 2026 | 11:46 am |
+| 27 | [Min Stack](./LeetCode/Medium/Min%20Stack) | [LeetCode](https://leetcode.com/problems/min-stack/) | Medium | 04 Oct 2026 | 11:24 am |
