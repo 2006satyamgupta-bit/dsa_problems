@@ -93,21 +93,22 @@
     "GeeksForGeeks_Full_Binary_Tree": true,
     "GeeksForGeeks_Parenthesis_Checker": true,
     "LeetCode_Insert_into_a_Binary_Search_Tree": true,
-    "LeetCode_Min_Stack": true
+    "LeetCode_Min_Stack": true,
+    "LeetCode_Remove_Outermost_Parentheses": true
   },
-  "totalSolved": 15,
+  "totalSolved": 16,
   "difficultyCounts": {
-    "easy": 9,
+    "easy": 10,
     "medium": 6,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Min Stack"
+    "Remove Outermost Parentheses"
   ],
   "currentStreak": 1,
   "todayCount": 1,
-  "lastSyncDate": "2026-10-04",
+  "lastSyncDate": "2026-10-08",
   "maxStreak": 6,
   "activityHistory": {
     "2026-09-11": 1,
@@ -121,6 +122,7 @@
     "2026-09-24": 1,
     "2026-09-27": 1,
     "2026-09-29": 1,
-    "2026-10-04": 1
+    "2026-10-04": 1,
+    "2026-10-08": 1
   }
 }
