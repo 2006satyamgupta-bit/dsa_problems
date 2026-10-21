@@ -56,3 +56,4 @@
 | 31 | [Infix to Postfix](./GeeksForGeeks/Medium/Infix%20to%20Postfix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1) | Medium | 18 Oct 2026 | 08:48 pm |
 | 32 | [Next Greater Element II](./LeetCode/Medium/Next%20Greater%20Element%20II) | [LeetCode](https://leetcode.com/problems/next-greater-element-ii/) | Medium | 19 Oct 2026 | 01:56 pm |
 | 33 | [Find Target Indices After Sorting Array](./LeetCode/Easy/Find%20Target%20Indices%20After%20Sorting%20Array) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | 19 Oct 2026 | 07:42 pm |
+| 34 | [Previous Smaller Element](./GeeksForGeeks/Medium/Previous%20Smaller%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/previous-smaller-element/1) | Medium | 21 Oct 2026 | 10:40 pm |
