@@ -100,21 +100,22 @@
     "GeeksForGeeks_Infix_to_Postfix": true,
     "LeetCode_Next_Greater_Element_II": true,
     "LeetCode_Find_Target_Indices_After_Sorting_Array": true,
-    "GeeksForGeeks_Previous_Smaller_Element": true
+    "GeeksForGeeks_Previous_Smaller_Element": true,
+    "LeetCode_Linked_List_Cycle": true
   },
-  "totalSolved": 22,
+  "totalSolved": 23,
   "difficultyCounts": {
-    "easy": 12,
+    "easy": 13,
     "medium": 10,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Previous Smaller Element"
+    "Linked List Cycle"
   ],
   "currentStreak": 1,
   "todayCount": 1,
-  "lastSyncDate": "2026-10-21",
+  "lastSyncDate": "2026-10-23",
   "maxStreak": 6,
   "activityHistory": {
     "2026-09-11": 1,
@@ -132,6 +133,7 @@
     "2026-10-08": 1,
     "2026-10-18": 3,
     "2026-10-19": 2,
-    "2026-10-21": 1
+    "2026-10-21": 1,
+    "2026-10-23": 1
   }
 }
