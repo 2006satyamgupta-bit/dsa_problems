@@ -58,3 +58,4 @@
 | 33 | [Find Target Indices After Sorting Array](./LeetCode/Easy/Find%20Target%20Indices%20After%20Sorting%20Array) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | 19 Oct 2026 | 07:42 pm |
 | 34 | [Previous Smaller Element](./GeeksForGeeks/Medium/Previous%20Smaller%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/previous-smaller-element/1) | Medium | 21 Oct 2026 | 10:40 pm |
 | 35 | [Linked List Cycle](./LeetCode/Easy/Linked%20List%20Cycle) | [LeetCode](https://leetcode.com/problems/linked-list-cycle/) | Easy | 23 Oct 2026 | 09:44 pm |
+| 36 | [Armstrong Numbers](./GeeksForGeeks/Easy/Armstrong%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1) | Easy | 25 Oct 2026 | 10:34 am |
