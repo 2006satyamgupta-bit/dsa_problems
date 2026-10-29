@@ -39,10 +39,7 @@
 
 <!---LeetCode Topics Start
 # LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3875-construct-uniform-parity-array-i](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
+
 ## Math
 |  |
 | ------- |
@@ -69,10 +66,16 @@ LeetCode Topics End-->
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0066-plus-one) |
 | [3870-count-commas-in-range](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0066-plus-one) |
+| [3875-construct-uniform-parity-array-i](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
