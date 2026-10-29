@@ -40,12 +40,7 @@
 <!---LeetCode Topics Start
 # LeetCode Topics
 
-## Math
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0002-add-two-numbers) |
-| [3870-count-commas-in-range](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/3870-count-commas-in-range) |
-| [3875-construct-uniform-parity-array-i](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
+
 ## Linked List
 |  |
 | ------- |
